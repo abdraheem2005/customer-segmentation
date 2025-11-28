@@ -1,0 +1,6 @@
+I have a retail customer transaction dataset with these columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
+The dataset is used for unsupervised customer segmentation. Apart from traditional RFM features (Recency, Frequency, Monetary),
+what other feature engineering techniques can be applied to enhance the dataset?
+Consider product diversity, purchasing patterns, temporal behavior, and geographical factors.
+Also, please provide detailed steps to handle missing values, detect and treat duplicates, and calculate the RFM features properly.
+Provide Python code following industry best practices including clear comments and modular functions
